@@ -1154,6 +1154,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [advanced-threat-research/CVE-2020-16898](https://github.com/advanced-threat-research/CVE-2020-16898) - CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule
 * [bukaleyang/zhongkui-waf](https://github.com/bukaleyang/zhongkui-waf) - WAF based on lua-nginx-module.
 * [efrederickson/XFuscator](https://github.com/efrederickson/XFuscator) - Most advanced Lua obfuscator 3V4R
+* [Obrion](https://www.obrion.xyz) - Free browser-based Lua/Luau obfuscator for Roblox scripts
 * [kikito/lua-sandbox](https://github.com/kikito/lua-sandbox) - A lua sandbox for executing non-trusted code
 * [foggyspace/NsePocsuite-lua](https://github.com/foggyspace/NsePocsuite-lua) - 网络摄像头漏洞检测脚本.Nmap (Nse Nmap script engine)
 * [scipag/httprecon-nse](https://github.com/scipag/httprecon-nse) - Advanced web server fingerprinting for Nmap
